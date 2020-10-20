@@ -12,13 +12,13 @@ Note: The number of stones cannot be negative.
 Read more about NIM Game: https://en.wikipedia.org/wiki/Nim
 
 ## Compile Instructions:
-Compile with instructions:
+### Compile with instructions:
 
 nasm –f elf NIMGame.asm
 
 ld –m elf_i386 NIMGame.o –o NIMGame io.o
 
-Run:
+### Run:
 
 ./NIMGame
 
