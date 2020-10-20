@@ -1,5 +1,5 @@
 # NIM-Game-NASM
-NIM Game Program in Assembly Language of two players.
+NIM Game Program in Assembly Language (NASM) on Linux for two players.
 
 In this there will be 10 piles with each containing some stones.
 
